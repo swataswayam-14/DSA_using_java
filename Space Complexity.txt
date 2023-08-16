@@ -1,0 +1,6 @@
+Space complexity:
+memory space:
+1.heap:-objects
+2.stack:-functions 
+
+space compexity = input space + auxiliary space
